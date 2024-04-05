@@ -1,10 +1,4 @@
-### Oiii! Eu sou a Julia Romenia 🙋‍♀️
-
-Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprimorar meus conhecimentos e habilidades. Meu objetivo é criar soluções inovadoras que possam impactar positivamente a vida das pessoas.
-
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 👩‍💻 Atualmente trabalho como Full Stack
-- 📫 juliarimeniag1@gmail.com
+### Olá 🙋‍♀️
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-romenia-9513971b7)
 
