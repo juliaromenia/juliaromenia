@@ -1,12 +1,38 @@
-### Olá 🙋‍♀️
+## Hello, World! 👋
+
+<div align="center">
+  
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
+I'm a Software Engineer
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Julia Romenia',
+        birthDate: '1998-11-18',
+        pronouns: 'she' | 'her',
+    },
+    technical: {
+        technologies: {
+            backEnd: {
+                .Net
+                Java
+            },
+            frontEnd: {
+                Javascript: ['React'],
+                HTML,
+                CSS: ['styled-components', 'Bootstrap'],
+            },
+    }
+}
+```
+  </div>
+</details>
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-romenia-9513971b7)
-
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaromenia&show_icons=true&theme=radical)
-
-### 🚀 Tecnologias
-
-Abaixo estão algumas das tecnologias com as quais tenho conhecimento:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
-
+</div>
