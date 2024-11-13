@@ -11,7 +11,7 @@ I'm a Software Engineer
 <div align="left">
  
 ``` js
-const stebs = {
+const julia = {
     personal: {
         fullName: 'Julia Romenia',
         birthDate: '1998-11-18',
