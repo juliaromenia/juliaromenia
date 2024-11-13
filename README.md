@@ -20,7 +20,7 @@ const stebs = {
     technical: {
         technologies: {
             backEnd: {
-                .Net [ 'C#', 'ASP.NET Core', 'MVC', 'Entity Framework Core', 'Dapper', 'xUnit' ]
+                .Net [ 'C#', 'ASP.NET Core', 'MVC', 'Entity Framework Core', 'Dapper', 'xUnit', 'NPOI e IronXl', 'ABP', 'NPOI', 'IronXL', 'Background Service' ]
             },
             frontEnd: {
                 Javascript: ['React'],
