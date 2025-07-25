@@ -23,9 +23,9 @@ const julia = {
                 .Net [ 'C#', 'ASP.NET Core', 'MVC', 'Entity Framework Core', 'Dapper', 'xUnit', 'ABP', 'NPOI', 'IronXL', 'Background Service' ]
             },
             frontEnd: {
-                Javascript: ['React'],
+                Javascript: ['Angular','React'],
                 HTML,
-                CSS: ['styled-components', 'Bootstrap'],
+                CSS: ['styled-components', 'Bootstrap', 'Micro frontend'],
             },
     }
 }
