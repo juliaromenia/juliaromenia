@@ -25,7 +25,7 @@ const julia = {
             frontEnd: {
                 Javascript: ['Angular','React'],
                 HTML,
-                CSS: ['styled-components', 'Bootstrap', 'Micro frontend'],
+                CSS: ['styled-components', 'Bootstrap'],
             },
     }
 }
