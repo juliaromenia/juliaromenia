@@ -14,7 +14,6 @@ I'm a Software Engineer
 const julia = {
     personal: {
         fullName: 'Julia Romenia',
-        birthDate: '1998-11-18',
         pronouns: 'she' | 'her',
     },
     technical: {
